@@ -1,3 +1,9 @@
+rocm-hipsparse (6.2.4-2) unstable; urgency=medium
+
+  * add gfx942 gpu target 
+
+ -- CHEN Xuan <chenxuan@iscas.ac.cn>  Thu, 19 Jun 2025 10:00:20 +0800
+
 rocm-hipsparse (6.2.4-1) unstable; urgency=medium
 
   * Initial release.
