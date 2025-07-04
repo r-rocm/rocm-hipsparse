@@ -1,3 +1,9 @@
+rocm-hipsparse (6.2.4-3) unstable; urgency=medium
+
+  * Add all GPU targets 
+
+ --  <chenxuan@iscas.ac.cn>  Fri, 04 Jul 2025 08:37:29 +0800
+
 rocm-hipsparse (6.2.4-2) unstable; urgency=medium
 
   * add gfx942 gpu target 
